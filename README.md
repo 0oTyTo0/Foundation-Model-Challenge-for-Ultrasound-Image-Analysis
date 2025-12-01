@@ -17,7 +17,7 @@ Welcome to the Foundation Model Challenge for Ultrasound Image Analysis (FMC_UIA
 
 ## 🎯 Competition Tasks
 
-This challenge includes **4 types of medical image analysis tasks** with a total of **26 subtasks**:
+This challenge includes **4 types of medical image analysis tasks** with a total of **27 subtasks**:
 
 | Task Type | Count | Description | Output Format |
 |-----------|-------|-------------|---------------|
